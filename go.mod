@@ -1,6 +1,6 @@
-module github.com/bxelab/runestone
+module github.com/jasonh-ca/runestone
 
-go 1.22
+go 1.20
 
 require (
 	github.com/btcsuite/btcd v0.24.0
