@@ -1,4 +1,4 @@
-module github.com/bxelab/runestone/cmd/runestonecli
+module github.com/jasonh-ca/runestone/cmd/runestonecli
 
 go 1.20.2
 
@@ -42,4 +42,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/bxelab/runestone => ../../
+replace github.com/jasonh-ca/runestone => ../../
