@@ -1,6 +1,6 @@
 module github.com/bxelab/runestone/cmd/runestonecli
 
-go 1.22.2
+go 1.20.2
 
 require (
 	github.com/btcsuite/btcd v0.24.0
